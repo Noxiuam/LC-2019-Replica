@@ -1,0 +1,21 @@
+{
+  "name": "LunarClient",
+  "version": "1.0.0",
+  "description": "Lunar Client",
+  "author": "Moonsworth, LLC",
+  "main": "app/main.js",
+  "dependencies": {
+    "appdata-path": "^1.0.0",
+    "electron-log": "^3.0.1",
+    "electron-updater": "^4.0.6",
+    "jsonfile": "^4.0.0",
+    "minecraft-launcher-core": "^3.16.3",
+    "node-machine-id": "^1.1.10",
+    "request": "^2.88.0",
+    "sha1-file": "^2.0.0"
+  },
+  "devDependencies": {
+    "electron": "^13.0.0",
+    "electron-builder": "^23.0.3"
+  }
+}
